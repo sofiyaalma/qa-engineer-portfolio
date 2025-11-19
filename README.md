@@ -9,7 +9,7 @@
 
 **Артефакты тестирования:**
 - [Чек-лист: Добавление товара в корзину](projects/project-1/test-cases/check-list-cart.md)
-- [Тест-кейс: Добавление товара в корзину](projects/project-1/test-cases/test-case-1.md)
+- [Тест-кейс](projects/project-1/test-cases/test-case-1.md)
 - [Баг-репорт](projects/project-1/test-cases/bug-report-001.md)
 
 **Что проверялось:**
