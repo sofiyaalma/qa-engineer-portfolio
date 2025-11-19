@@ -10,7 +10,7 @@
 **Артефакты тестирования:**
 - [Тест-кейс: Добавление товара в корзину](projects/project-1/test-cases/test-case-1.md)
 - [Чек-лист: Добавление товара в корзину](projects/project-1/test-cases/check-list-cart.md)
-- Баг-репорты (в процессе)
+- [Баг-репорт](projects/project-1/test-cases/bug-report-001.md)
 
 **Что проверялось:**
 - Работа корзины товаров
